@@ -1,0 +1,43 @@
+/* Stop Watch */
+
+
+
+body {
+    flex-wrap: wrap;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    text-align: center;
+    padding: 100px;
+}
+
+h2 {
+    font-size: 30pt;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    background-color:rgb(212,175,55);
+    opacity: 0.9;
+    border-radius: 15px;
+}
+
+h1 {
+    color: rgb(212,175,55);
+    display: inline-block;
+    width: 100px;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-weight: lighter;
+    box-shadow:rgb(212,175,55) 0px 0px 30px;
+}
+
+button {
+    
+    background-color: rgb(212,175,55);
+    border-radius: 30%;
+    width: 100px;
+    height: 30px;color: rgb(53,44,14);
+    font-weight: 700;
+}
